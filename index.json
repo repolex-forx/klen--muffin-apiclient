@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-apiclient",
+  "versions": [
+    {
+      "commit": "37fe19602fd086c259c983f658229b5b6eea89b4",
+      "tag": "3.9.0",
+      "parsed_at": "2026-10-20T21:38:25.613367+00:00"
+    }
+  ]
+}
